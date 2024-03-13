@@ -1,17 +1,14 @@
 
-
 <h1 align="center">
   Hi I'm Amelia Salazar
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
----
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working to be a fullStack developper 
   
-🌱 I’m currently learning : Python
+🌱 I’m currently learning Web Development Full-Stack
 
   📫 How to reach me:  
   Mail me at "amelia.msh1210@mgial.com" 
