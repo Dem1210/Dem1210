@@ -35,7 +35,17 @@ Mail me at "amelia.msh1210@gmail.com"
 
 </div>
 
+<div align= center>
+   <h1> 📖 Some Of My Projects</h1>  
+  
+  ![Screenshot 2024-10-07 162259](https://github.com/user-attachments/assets/db0395ca-8584-4a21-8dcc-6a401eb82552)
+  ![Screenshot 2024-10-07 161807](https://github.com/user-attachments/assets/71026158-af96-4ae8-80be-9aebe521b37e)
+  ![Screenshot 2024-10-07 161704](https://github.com/user-attachments/assets/3aaca37e-561f-4b28-8fbd-4e8f83b495ba)
+  ![Screenshot 2024-10-07 160319](https://github.com/user-attachments/assets/f3ee87b4-9df0-4bdb-bd45-b48ab238732b)
+  ![Screenshot 2024-10-07 160241](https://github.com/user-attachments/assets/fafe58fe-b838-4379-a071-69054440dd8a)
 
+
+</div>
 
 
 <div align="center">
